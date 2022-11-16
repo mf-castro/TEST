@@ -2,7 +2,7 @@
 
 This is a sample readme file
 
-Is there a conflict here?
+another line
 
 Nothings Changed
 XYZ  JKL
@@ -12,4 +12,3 @@ Reset to 5e94b3c
 
 Yet another add
 
-Or perhaps a conflict here?
